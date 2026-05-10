@@ -81,6 +81,7 @@ import kotlinx.coroutines.flow.collect
 class MainActivity : ComponentActivity() {
     private val viewModel by viewModels<CompressorViewModel>()
 
+    @SuppressLint("SourceLockedOrientationActivity")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
