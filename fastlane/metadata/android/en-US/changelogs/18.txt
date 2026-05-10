@@ -1,4 +1,4 @@
-Compressor 1.5.3 adds the following features:
+Compressor 1.5.3 adds new features:
 - Compressor now detects if your device can decode a source video or not and fails gracefully
 - Improved the automatic quality adjustment
 - Removed unused imports and code

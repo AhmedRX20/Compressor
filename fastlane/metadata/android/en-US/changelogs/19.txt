@@ -1,4 +1,4 @@
-Compressor 1.5.4 adds the following features:
+Compressor 1.5.4 adds new features:
 - Original file names are now preserved
 - Cleaned up code and removed unused functions
 
